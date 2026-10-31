@@ -79,4 +79,7 @@ Bu komutlar Android `install-existing` komutunu kullanır. APK dosyası ROM'da y
 - Silme işlemi veri kaybına ve bağımlı uygulamaların bozulmasına yol açabilir. Önemli verileri yedekle; tam olarak hangi paketlerin etkileneceğini görmek için önce `list-others` çalıştır.
 - Bu araç her HyperOS sürümünde test edilmiş değildir. Sorun çıkarsa USB hata ayıklama erişimini koru ve `restore-others` ile geri yüklemeyi dene.
 
-Bu araç Android veya Google tarafından desteklenmez.
+Bu araç Android veya Google tarafından desteklenmez. 
+
+## SORUMLULUK REDDİ 
+Bu scriptin yaratabileceği sonuçlardan ben veya play store sorumlu değildir :D
