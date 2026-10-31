@@ -42,7 +42,6 @@ DAHA GÜVENLİ SEÇENEK TÜM HERŞEYİ SİLMEZ
 ```sh
 ./remove-google-user.sh remove
 ```
-DAHA GÜVENLİ SEÇENEK
 
 Betik etkilenecek paketleri tekrar gösterir. Devam etmek için yalnızca açıkça onaylıyorsan `REMOVE-GOOGLE` yaz. Farklı işlem olan sınırlı paket grubu için `remove` komutu `REMOVE` onayı ister.
 
