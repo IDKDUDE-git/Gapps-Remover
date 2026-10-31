@@ -77,7 +77,7 @@ Bu komutlar Android `install-existing` komutunu kullanır. APK dosyası ROM'da y
 - Paket adında `.overlay.` bulunan Android overlay paketleri hariç tutulur.
 - Bu betik yalnızca paketleri user 0 için kaldırır; fabrika imajından kalıcı olarak silmez. OTA güncellemesi veya fabrika ayarlarına dönüş sonrasında paketler tekrar görünebilir.
 - Silme işlemi veri kaybına ve bağımlı uygulamaların bozulmasına yol açabilir. Önemli verileri yedekle; tam olarak hangi paketlerin etkileneceğini görmek için önce `list-others` çalıştır.
-- Bu araç her HyperOS sürümünde test edilmiş değildir. Sorun çıkarsa USB hata ayıklama erişimini koru ve `restore-others` ile geri yüklemeyi dene.
+- Bu araç her Android sürümünde ve arayüzünde test edilmiş değildir. Sorun çıkarsa USB hata ayıklama erişimini koru ve `restore-others` ile geri yüklemeyi dene.
 
 Bu araç Android veya Google tarafından desteklenmez. 
 
