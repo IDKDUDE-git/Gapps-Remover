@@ -12,7 +12,7 @@ ADB ile seçili Google uygulama paketlerini Android'in **user 0** profilinden ka
 - Birden fazla cihaz bağlıysa `adb devices` çıktısından hedef cihazın seri numarasını kullan.
 
 ## Kullanım
-
+**Linux terminalde veya macos te (test edilmedi)**
 Betik dosyasını çalıştırılabilir yap:
 
 ```sh
