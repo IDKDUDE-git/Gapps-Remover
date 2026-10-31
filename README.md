@@ -33,9 +33,16 @@ Chrome, Haritalar ve Fotoğraflar hariç Google paketlerinin listesini **değiş
 
 Listeyi dikkatlice incele. Kaldırmak için:
 
+**DİKKAT!! BOOTLOOP'A SEBEP OLABİLİR**
+
 ```sh
 ./remove-google-user.sh remove-others
 ```
+DAHA GÜVENLİ SEÇENEK TÜM HERŞEYİ SİLMEZ 
+```sh
+./remove-google-user.sh remove
+```
+DAHA GÜVENLİ SEÇENEK
 
 Betik etkilenecek paketleri tekrar gösterir. Devam etmek için yalnızca açıkça onaylıyorsan `REMOVE-GOOGLE` yaz. Farklı işlem olan sınırlı paket grubu için `remove` komutu `REMOVE` onayı ister.
 
